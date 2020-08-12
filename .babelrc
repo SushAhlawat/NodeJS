@@ -1,0 +1,7 @@
+{
+    "presets": [
+        [
+            "@babel/preset-env"//to run ES6 code
+        ]
+    ]
+}
